@@ -1,6 +1,6 @@
 {
   "name": "profit/multixception",
-  "description": "description",
+  "description": "Implementation of the pattern MultiException",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
