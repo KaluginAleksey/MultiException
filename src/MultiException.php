@@ -1,6 +1,6 @@
 <?php
 
-namespace Profit\MultiExceptions;
+namespace Profit\MultiException;
 
 class MultiException extends \Exception
 {

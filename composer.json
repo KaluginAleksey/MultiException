@@ -1,11 +1,11 @@
 {
-  "name": "profit/multixception",
+  "name": "profit/multiexception",
   "description": "Implementation of the pattern MultiException",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
-      "name": "mrkam",
+      "name": "Aleksey Kalugin",
       "email": "mr.kamc@yandex.ru"
     }
   ],
