@@ -1,0 +1,15 @@
+{
+  "name": "profit/multixception",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "mrkam",
+      "email": "mr.kamc@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  }
+}
